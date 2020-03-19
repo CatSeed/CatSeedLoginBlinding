@@ -1,0 +1,4 @@
+name: CatSeedLoginBlinding
+version: @version@
+main: cc.baka9.catseedloginblinding.CatSeedLoginBlinding
+authors: [CatSeed]
