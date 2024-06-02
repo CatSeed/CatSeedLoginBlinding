@@ -1,8 +1,9 @@
 package cc.baka9.catseedloginblinding;
 
-import cc.baka9.catseedlogin.CatSeedLoginAPI;
-import cc.baka9.catseedlogin.event.CatSeedPlayerLoginEvent;
-import cc.baka9.catseedlogin.event.CatSeedPlayerRegisterEvent;
+
+import cc.baka9.catseedlogin.bukkit.CatSeedLoginAPI;
+import cc.baka9.catseedlogin.bukkit.event.CatSeedPlayerLoginEvent;
+import cc.baka9.catseedlogin.bukkit.event.CatSeedPlayerRegisterEvent;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
